@@ -1,0 +1,20 @@
+.veggie_h3{
+    font-size: 30px;
+}
+
+.veggie_title{
+    z-index: 10;
+    position: absolute;
+    text-align: center;
+    left: 50%;
+    bottom: 0%;
+    transform: translate(-50%, 0%);
+    color: white;
+    font-weight: 600;
+    font-size: 1rem;
+    height: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 90%;
+}
